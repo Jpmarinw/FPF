@@ -1,0 +1,54 @@
+"id","descricao","ip","observacao","sn_capacitor","sn_controlar","ip_controlado","sn_automatico","id_parent","medidor_tipo_id"
+63,N2 - TI - Geral(Nobreak),"147.1.31.62",Controle de Energia,S,N,0,S,110,1
+64,N1 - SUB 03 - UNIDADE 2,"147.1.31.74","",N,"0",0,S,112,2
+67,N2 - IMC2 - Centrais de Ar,"147.1.31.72",Quadro Geral das Centrais de Ar Condicionado da IMC2,N,N,0,S,64,1
+110,N1 - SUB 04 T1 - COZINHA /UNIDADE 1,"147.1.31.86",Subestação 04 Trafo 0,N,"0",0,S,112,1
+107,N2 - Compressor 02 (GA160),"147.1.31.67",Sala de compressores,N,N,0,S,105,1
+106,N2 - Compressor 01 (GA160),"147.1.31.66",Sala de compressores,N,N,0,S,124,1
+105,N1 - SUB 02 - UNIDADE 3,"147.1.31.64",Sala do nitrogênio,N,"0",0,S,112,2
+144,N3 - Central de Ar 04,"147.1.31.230",Centrais de Ar,N,N,0,S,67,3
+134,N2 - Energia Unidade 1,"147.1.31.222",IMC2,N,N,0,S,110,1
+112,N0 - SEPAM,"147.1.31.120",CEPAN Geral,S,S,128,S,0,2
+113,N1 - SUB 01 - ADM,"147.1.31.61",Sala da Subestação 01,N,"0",0,S,112,1
+116,N2 - Compressor 03 (GA90),"147.1.31.123",Localizado na Subestação 02 - Nitrogênio,N,N,0,S,124,1
+117,N2 - Administrativo,"147.1.31.75",Localizado na IMC2,N,N,0,S,113,1
+150,N2 - Bomba de Recalque,"147.1.31.248","",N,N,0,S,113,1
+120,N2 - Cozinha,"147.1.31.77",Localizado na IMC2,N,N,0,S,110,1
+123,N2- IMC2 - Máquinas,"147.1.31.233",Localizado na IMC2,N,"0",0,S,64,1
+124,N1 - SUB 04 T2 - TI,"147.1.31.124","Refeitório / Cozinha
+IMC 1
+Portaria Principal
+Banco Itaú
+LTE
+Engenharia IMC 2
+Clube
+ETE",N,"0",0,S,112,1
+126,N3 - Sala Servidores,"147.1.31.125",SALA DE SERVIDORES,N,N,0,S,63,1
+127,Controle Relés - BC,"147.1.31.122",Medidor que realiza o controle somente de relés,S,N,0,S,64,1
+128,Relés  72,"147.1.31.131",Controle de Relés IMC2,S,N,,S,64,1
+129,N2 - LDD Energia,"147.1.31.194","",N,N,0,S,113,1
+135,N2 - Energia ETE,"147.1.31.220","",N,N,0,S,110,1
+132,N3 - Luminárias LDD,"147.1.31.63",Controle de Luminárias LDD,S,N,0,S,0,2
+149,N2 - Bomba do Poço de Água,"147.1.31.247","",N,N,0,S,113,1
+137,N3 - Forno 17,"147.1.31.215","",N,N,0,S,121,1
+138,N3 - Forno 16,"147.1.31.216","",N,N,0,S,121,1
+139,N3 - Forno 15,"147.1.31.219","",N,N,0,S,121,1
+140,N3 - Forno 18,"147.1.31.221","",N,N,0,S,121,1
+141,N3 - Central de Ar 07,"147.1.31.223","",N,N,0,S,67,3
+142,N3 - Central de Ar 06,"147.1.31.224","",N,N,0,S,67,3
+145,N3 - Central de Ar 05,"147.1.31.232",Centrais de Ar,N,N,0,S,67,3
+146,N3 - Central de Ar 02,"147.1.31.234",Centrais de Ar,N,N,0,S,67,3
+147,N3 - Central de Ar 03,"147.1.31.235",Centrais de Ar,N,N,0,S,67,3
+148,N3 - Central de Ar 01,"147.1.31.236",Centrais de Ar,N,N,0,S,67,3
+151,N3 - Forno 14,"147.1.32.19",Medidor de Energia - Forno Produção,N,N,0,S,121,1
+152,N3 - Forno Underfill 01,"147.1.32.18","",N,N,0,S,121,1
+153,N3 - Forno Underfill 02,"147.1.32.17","",N,N,0,S,121,1
+154,N3 - Forno 13,"147.1.31.160","",N,N,0,S,121,1
+155,Banco de Capacitor SE 02,"147.1.31.195","",S,N,0,S,105,2
+156,N3 - Central de Ar 08,"147.1.31.225",,N,N,0,S,105,1
+157,N3 - Central de Ar 09,"147.1.32.48",,N,N,0,S,105,3
+158,N3 - Central de Ar 10,"147.1.32.47",,N,N,0,S,105,1
+159,N3 - Central de Ar 11,"147.1.31.218","",N,N,0,S,105,1
+160,N3 - Central de Ar 12,"147.1.32.50","",N,N,0,S,105,1
+161,N3 - Forno 05,"147.1.31.231","",N,N,0,S,105,1
+162,QGBT IMC3,"147.1.32.49","",N,N,0,S,105,1
